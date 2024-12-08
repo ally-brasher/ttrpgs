@@ -1,4 +1,5 @@
-*{background-color: darkslategray;}
+*{background-color: gainsboro;}
+
 #site-title {
     color:purple; 
     font-family: Helvetica; 
@@ -57,7 +58,7 @@
     justify-content: center;
     gap: 30 px;
 } }
-@media all and (min-width: 376px){
+@media all and (max-width: 376px){
         #site-title {
     font-size: 55px;
     display: flex;
