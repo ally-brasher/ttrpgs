@@ -56,7 +56,3 @@
     justify-content: center;
     gap: 30 px;
 } }
-@media all and (max-width: 376px) {
-  div.hide
-  {display: none;}
-}
