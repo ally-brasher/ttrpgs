@@ -64,3 +64,10 @@
     display: flex;
     justify-content: center;
 }}
+div p{
+  width: 100%;
+  font-size: 20px;
+  background-color: yellow;
+  color: black;
+  text-align: center;
+}
