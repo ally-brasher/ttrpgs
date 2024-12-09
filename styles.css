@@ -64,7 +64,7 @@
     display: flex;
     justify-content: center;
 }}
-div p{
+.div p{
   width: 100%;
   font-size: 20px;
   background-color: yellow;
