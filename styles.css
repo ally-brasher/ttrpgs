@@ -14,7 +14,7 @@
   header p {
     background-color:aqua; 
     color: black; 
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
   }
   figure {
@@ -36,7 +36,7 @@
   article p{
     background-color: white; 
     color: black;
-    font-size: 15px;  
+    font-size: 20px;  
   }
   a{
     font-weight: bold;
@@ -56,7 +56,7 @@
       text-decoration: none;
       background-color: white; 
       color: black;
-      font-size: 15px;  
+      font-size: 20px;  
     }
 @media all and (min-width: 376px) {
   ul li a{
@@ -74,6 +74,6 @@ footer{
   color: yellow;
   font-family: Helvetica;
   width: 100%;
-  font-size: 35px;
+  font-size: 20px;
   text-align: center;
 }
