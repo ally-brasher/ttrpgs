@@ -52,6 +52,12 @@
     ul {
       list-style-type: none;
     }
+    ol li {
+      text-decoration: none;
+      background-color: white; 
+      color: black;
+      font-size: 15px;  
+    }
 @media all and (min-width: 376px) {
   ul li a{
     display: flex;
